@@ -119,15 +119,6 @@ Below is a simplified overview of how the code works internally:
   </li>
 </ol>
 
-<h2 id="references">References</h2>
-<ul>
-  <li><a href="https://en.cppreference.com/w/cpp/language/enum" target="_blank">C++ Enumerations</a></li>
-  <li><a href="https://en.cppreference.com/w/cpp/numeric/random/rand" target="_blank">Random Number Generation (rand, srand)</a></li>
-  <li><a href="https://en.cppreference.com/w/cpp/io" target="_blank">I/O in C++ (cin, cout)</a></li>
-  <li><a href="https://en.cppreference.com/w/cpp/language/if" target="_blank">Conditional Statements</a></li>
-  <li><a href="https://en.cppreference.com/w/cpp/language/function" target="_blank">Function and Scope</a></li>
-</ul>
-
 <h2 id="license">License</h2>
 <p>
 This project is released under the 
